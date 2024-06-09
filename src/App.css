@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+li button {
+  margin-left: 20px;
+  padding: 5px 10px;
+  font-size: 14px;
+}
